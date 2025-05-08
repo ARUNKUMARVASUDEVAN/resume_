@@ -4,7 +4,7 @@ import csv
 from langchain.llms import HuggingFaceHub
 
 # Replace this token with your Hugging Face token
-HUGGINGFACE_API_TOKEN = "your_hf_token_here"
+HUGGINGFACE_API_TOKEN = "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"
 
 st.set_page_config(page_title="Resume Screener", page_icon="📄", layout="wide")
 st.title("AI Resume Screener")
